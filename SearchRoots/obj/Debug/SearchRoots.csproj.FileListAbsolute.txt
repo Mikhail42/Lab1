@@ -1,0 +1,9 @@
+c:\users\student220\documents\visual studio 2012\Projects\SearchRoots\SearchRoots\bin\Debug\SearchRoots.exe.config
+c:\users\student220\documents\visual studio 2012\Projects\SearchRoots\SearchRoots\bin\Debug\SearchRoots.exe
+c:\users\student220\documents\visual studio 2012\Projects\SearchRoots\SearchRoots\bin\Debug\SearchRoots.pdb
+c:\users\student220\documents\visual studio 2012\Projects\SearchRoots\SearchRoots\obj\Debug\SearchRoots.csprojResolveAssemblyReference.cache
+c:\users\student220\documents\visual studio 2012\Projects\SearchRoots\SearchRoots\obj\Debug\SearchRoots.Properties.Resources.resources
+c:\users\student220\documents\visual studio 2012\Projects\SearchRoots\SearchRoots\obj\Debug\SearchRoots.csproj.GenerateResource.Cache
+c:\users\student220\documents\visual studio 2012\Projects\SearchRoots\SearchRoots\obj\Debug\SearchRoots.exe
+c:\users\student220\documents\visual studio 2012\Projects\SearchRoots\SearchRoots\obj\Debug\SearchRoots.pdb
+C:\Users\student220\Documents\Visual Studio 2012\Projects\SearchRoots\SearchRoots\obj\Debug\LabProject.SearchRoots.SearchRootsForm.resources
