@@ -7,3 +7,12 @@ c:\users\student220\documents\visual studio 2012\Projects\SearchRoots\SearchRoot
 c:\users\student220\documents\visual studio 2012\Projects\SearchRoots\SearchRoots\obj\Debug\SearchRoots.exe
 c:\users\student220\documents\visual studio 2012\Projects\SearchRoots\SearchRoots\obj\Debug\SearchRoots.pdb
 C:\Users\student220\Documents\Visual Studio 2012\Projects\SearchRoots\SearchRoots\obj\Debug\LabProject.SearchRoots.SearchRootsForm.resources
+C:\Users\DNS\Documents\Visual Studio 2015\Projects\Lab1\SearchRoots\bin\Debug\SearchRoots.exe.config
+C:\Users\DNS\Documents\Visual Studio 2015\Projects\Lab1\SearchRoots\obj\Debug\SearchRoots.exe
+C:\Users\DNS\Documents\Visual Studio 2015\Projects\Lab1\SearchRoots\obj\Debug\SearchRoots.pdb
+C:\Users\DNS\Documents\Visual Studio 2015\Projects\Lab1\SearchRoots\bin\Debug\SearchRoots.exe
+C:\Users\DNS\Documents\Visual Studio 2015\Projects\Lab1\SearchRoots\bin\Debug\SearchRoots.pdb
+C:\Users\DNS\Documents\Visual Studio 2015\Projects\Lab1\SearchRoots\obj\Debug\SearchRoots.csprojResolveAssemblyReference.cache
+C:\Users\DNS\Documents\Visual Studio 2015\Projects\Lab1\SearchRoots\obj\Debug\LabProject.SearchRoots.SearchRootsForm.resources
+C:\Users\DNS\Documents\Visual Studio 2015\Projects\Lab1\SearchRoots\obj\Debug\SearchRoots.Properties.Resources.resources
+C:\Users\DNS\Documents\Visual Studio 2015\Projects\Lab1\SearchRoots\obj\Debug\SearchRoots.csproj.GenerateResource.Cache

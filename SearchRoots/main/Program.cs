@@ -6,6 +6,8 @@ using System.Windows.Forms;
 using System.Text.RegularExpressions;
 using System.Data;
 
+using SearchRoots.solution;
+
 namespace LabProject.SearchRoots
 {
     public static class Program
@@ -24,9 +26,23 @@ namespace LabProject.SearchRoots
                       );
               var result = new DataTable().Compute(updatedExpression, null); // 10
               Console.WriteLine(result);*/
-            Application.EnableVisualStyles();
+            /*Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new SearchRootsForm());
+            */
+            solution.MyFunction fun = x => x * x - 10;
+            solution.MyFunction der = x => 2 * x;
+            // x*x = 10 <=> x = +- sqrt(10) = 3,...
+            AIterationSearchRoot searchRoot1 = new Newton(fun, der, 5);
+            Context c = new Context(searchRoot1);
+            Decimal res1 = c.ExecuteOperation();
+            Console.WriteLine(res1);
+            
+            AIterationSearchRoot searchRoot2 = new Bisection(fun, -2, 4);
+            c.SetSearchRoot(searchRoot2);
+            Decimal res2 = c.ExecuteOperation();
+            Console.WriteLine(res2);
+            Console.ReadLine();
         }
     }
 }
